@@ -56,6 +56,7 @@ info()	Cyan	Neutral informative output
 subheading()	Blue	Input prompts / headers
 heading()	Magenta	Section headers
 📁 Project Structure
+```
 project_root/
 │
 ├── main.py
@@ -80,6 +81,7 @@ project_root/
 └── data/
     ├── accounts.json
     └── students.json
+```
 
 ⚙️ How It Works
 1. Authentication Flow
