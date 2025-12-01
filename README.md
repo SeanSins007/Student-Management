@@ -39,7 +39,7 @@ A modular and extensible command-line Student Management System built using Pyth
 
 Uses standardized color-coded messages throughout the project:
 
-       Message Type	   Color	Usage
+      Message Type	   Color	Usage
 
     - success()		   Green	Completion / confirmation
     - error()		      Red	Invalid input, failures
