@@ -2,26 +2,18 @@ Student Management System (Python, OOP, Modular Architecture)
 
 A modular and extensible command-line Student Management System built using Python. This project features a clean file structure, strong input validation, secure password handling, colored CLI messages, and a fully object-oriented service layer.
 
-📌 Features
-🔐 Authentication
+-📌 Features
+-🔐 Authentication
 
-   1. Admin login system
-
-   2. Password hashing (bcrypt)
-
-   3. Password policy enforcement
-
-   4. Minimum length
-
-   5. Uppercase letters
-
-   6. Lowercase letters
-
-   7. Numbers
-
-   8. Special characters
-
-   9. Secure password confirmation prompts
+   - Admin login system
+   - Password hashing (bcrypt)
+   - Password policy enforcement
+   - Minimum length
+   - Uppercase letters
+   - Lowercase letters
+   - Numbers
+   - Special characters
+   - Secure password confirmation prompts
 
 👩‍🎓 Student Management
 
