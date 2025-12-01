@@ -1,0 +1,5 @@
+[2025-11-26 12:27:14] Added student: adnan (adnan@gmail.com)
+[2025-11-26 12:45:45] [1m[96mUpdated student: [0m
+[2025-11-26 12:46:29] [1m[96mDeleted student: SAFSV8E[0m
+[2025-11-26 12:46:40] [1m[96mAdded course: de[0m
+[2025-11-26 12:47:00] [1m[96mDeleted course: CNQPORN[0m

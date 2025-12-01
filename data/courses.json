@@ -1,0 +1,16 @@
+[
+    {
+        "course_id": "CAO1DRQ",
+        "name": "it",
+        "instructor_id": null,
+        "instructor_name": null,
+        "credits": 7
+    },
+    {
+        "course_id": "CH6JMAP",
+        "name": "delta",
+        "instructor_id": null,
+        "instructor_name": null,
+        "credits": 6
+    }
+]

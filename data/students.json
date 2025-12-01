@@ -1,0 +1,37 @@
+[
+    {
+        "student_id": "SUGL9HX",
+        "name": "sean",
+        "age": 19,
+        "email": "sean@gmail.com",
+        "password": "f4bf9f7fcbedaba0392f108c59d8f4a38b3838efb64877380171b54475c2ade8"
+    },
+    {
+        "student_id": "S9BI3AD",
+        "name": "sean",
+        "age": 29,
+        "email": "sins@gmail.com",
+        "password": "73f4c0e92607bdd29087756e6591aa55c6474a55ca06ca6e0386bc2a9d128e81"
+    },
+    {
+        "student_id": "STTTB0E",
+        "name": "as",
+        "age": 19,
+        "email": "ds@gmail.com",
+        "password": "73f4c0e92607bdd29087756e6591aa55c6474a55ca06ca6e0386bc2a9d128e81"
+    },
+    {
+        "student_id": "SNLTABP",
+        "name": "adnan",
+        "age": 19,
+        "email": "adnan@gmail.com",
+        "password": null
+    },
+    {
+        "student_id": "SQBV2PO",
+        "name": "as",
+        "age": 21,
+        "email": "as@gmail.com",
+        "password": null
+    }
+]
