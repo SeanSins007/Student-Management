@@ -144,27 +144,27 @@ This ensures the project is:
 
 🛡 Security Highlights
 
-   Password hashing (bcrypt)
+   1. Password hashing (bcrypt)
 
-   No plaintext passwords stored anywhere
+   2. No plaintext passwords stored anywhere
 
-   Strict password policy
+   3. Strict password policy
 
-   Input validation on all fields
+   4. Input validation on all fields
 
-   Logging of admin actions
+   5. Logging of admin actions
 
 📌 Future Improvements
 
-   Add course management module
+   1. Add course management module
 
-   Add teacher accounts
+   2. Add teacher accounts
 
-   Add role-based permissions
+   3. Add role-based permissions
 
-   Export students to CSV / PDF
+   4. Export students to CSV / PDF
 
-   Database support (SQLite/PostgreSQL)
+   5. Database support (SQLite/PostgreSQL)
 
 📜 License
 
