@@ -41,10 +41,10 @@ Uses standardized color-coded messages throughout the project:
 
       Message Type	   Color	Usage
 
-    - success()		   Green	Completion / confirmation
-    - error()		   Red	   Invalid input, failures
+    - success()		   Green	   Completion / confirmation
+    - error()		      Red	   Invalid input, failures
     - warning()		   Yellow	Caution / borderline input
-    - info()		   Cyan	   Neutral informative output
+    - info()		      Cyan	   Neutral informative output
     - subheading()	   Blue	   Input prompts / headers
     - heading()		   Magenta	Section headers
 
